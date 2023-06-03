@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="172.16.2.213" id="7143f337-1efa-484a-90eb-352fa78fbc41" port="22" nameFormat="DESCRIPTIVE" username="iclab" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="172.16.2.211" id="1a3e090d-24fd-4165-9b0e-e1a9a7896391" port="22" customName="iclab@172.16.2.211:22" nameFormat="CUSTOM" username="iclab" useOpenSSHConfig="true">
+        <option name="customName" value="iclab@172.16.2.211:22" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="172.16.2.214" id="5a27d377-b720-4f16-9adb-c38f6a9975ab" port="22" customName="iclab@172.16.2.214:22" nameFormat="CUSTOM" username="iclab" useOpenSSHConfig="true">
+        <option name="customName" value="iclab@172.16.2.214:22" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="localhost" id="e7c5ab39-fe83-4ec9-b597-56c75f5cc8a4" port="21122" customName="iclab@172.16.2.211:22(Remote)" nameFormat="CUSTOM" username="iclab" useOpenSSHConfig="true">
+        <option name="customName" value="iclab@172.16.2.211:22(Remote)" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="localhost" id="78f5cbf3-4a76-418c-bc82-de6d3f78dc8a" port="21422" customName="iclab@172.16.2.214:22(Remote)" nameFormat="CUSTOM" username="iclab" useOpenSSHConfig="true">
+        <option name="customName" value="iclab@172.16.2.214:22(Remote)" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;proxyParams&quot;:{&quot;proxyHost&quot;:&quot;43.143.244.109&quot;,&quot;proxyPort&quot;:8006,&quot;proxyType&quot;:&quot;NO_PROXY&quot;,&quot;authData&quot;:{&quot;proxyAuthType&quot;:&quot;USER_AND_PASSWORD&quot;}}}" host="localhost" id="507ddff2-31bd-4f82-bb13-f71b981f8f3a" port="30002" nameFormat="DESCRIPTIVE" username="dts_701" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="localhost" id="4fcae9d3-c4d5-4bac-94dc-ea59c2114279" port="30004" nameFormat="DESCRIPTIVE" username="dts_701" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="localhost" id="78e66dc4-0e43-4567-8df2-8759c666aff5" port="30005" nameFormat="DESCRIPTIVE" username="dts_701" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="43.143.244.109" id="ebbfc6b9-0658-4c06-baf2-498ab73c6940" port="8006" nameFormat="DESCRIPTIVE" username="dts_701" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="43.143.244.109" id="a8b30710-76a9-40b6-8e8a-246eafc87388" port="8007" nameFormat="DESCRIPTIVE" username="dts_701" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="localhost" id="9ad420da-72f1-4a2d-84b3-da9ee8821e97" port="30009" nameFormat="DESCRIPTIVE" username="dts_701" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="localhost" id="b0a9c834-fafd-47c7-81ad-6c80e968956c" port="30010" nameFormat="DESCRIPTIVE" username="dts_701" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="localhost" id="32502fcb-9545-4e4b-905a-52673c802398" port="30011" nameFormat="DESCRIPTIVE" username="dts_701" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

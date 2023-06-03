@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="eb97cf9c-ca28-4226-878f-d53de613d744" name="172.16.2.211">
+        <fileTransfer accessType="SFTP" host="172.16.2.211" port="22" sshConfigId="1a3e090d-24fd-4165-9b0e-e1a9a7896391" sshConfig="iclab@172.16.2.211:22">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1b98c7d5-1ad1-4b73-9264-09ef87f97d3c" name="172.16.2.213">
+        <fileTransfer accessType="SFTP" host="172.16.2.213" port="22" sshConfigId="7143f337-1efa-484a-90eb-352fa78fbc41" sshConfig="iclab@172.16.2.213:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="479b462c-f79a-4367-baa3-efb900ce370a" name="172.16.2.214">
+        <fileTransfer accessType="SFTP" host="172.16.2.214" port="22" sshConfigId="5a27d377-b720-4f16-9adb-c38f6a9975ab" sshConfig="iclab@172.16.2.214:22">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="39f659e1-8922-42b3-82c9-68609adcac9e" name="172.16.2.211(Remote)">
+        <fileTransfer accessType="SFTP" host="localhost" port="21122" sshConfigId="e7c5ab39-fe83-4ec9-b597-56c75f5cc8a4" sshConfig="iclab@172.16.2.211:22(Remote)">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="629c40dc-1ba3-47f5-9563-6380a1869bba" name="172.16.2.214(Remote)">
+        <fileTransfer accessType="SFTP" host="localhost" port="21422" sshConfigId="78f5cbf3-4a76-418c-bc82-de6d3f78dc8a" sshConfig="iclab@172.16.2.214:22(Remote)">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="806efbfa-4a57-4cfb-9373-2be73baadc79" name="192.168.1.2">
+        <fileTransfer accessType="SFTP" host="localhost" port="30002" sshConfigId="507ddff2-31bd-4f82-bb13-f71b981f8f3a" sshConfig="dts_701@localhost:30002 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5080d3ca-2485-487f-af38-dea9382de77f" name="192.168.1.4">
+        <fileTransfer accessType="SFTP" host="localhost" port="30004" sshConfigId="4fcae9d3-c4d5-4bac-94dc-ea59c2114279" sshConfig="dts_701@localhost:30004 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a6cd3f23-e431-4665-8324-75533cf1f15b" name="192.168.1.5">
+        <fileTransfer accessType="SFTP" host="localhost" port="30005" sshConfigId="78e66dc4-0e43-4567-8df2-8759c666aff5" sshConfig="dts_701@localhost:30005 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3d8e0886-e035-44b8-b511-c9436037b15e" name="192.168.1.6">
+        <fileTransfer accessType="SFTP" host="43.143.244.109" port="8006" sshConfigId="ebbfc6b9-0658-4c06-baf2-498ab73c6940" sshConfig="dts_701@43.143.244.109:8006 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="783a6954-4410-43fb-88fe-51dc5b314ce8" name="192.168.1.7">
+        <fileTransfer accessType="SFTP" host="43.143.244.109" port="8007" sshConfigId="a8b30710-76a9-40b6-8e8a-246eafc87388" sshConfig="dts_701@43.143.244.109:8007 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8fb3f0e1-ab98-4577-b9a0-69fde216fd37" name="192.168.1.9">
+        <fileTransfer accessType="SFTP" host="localhost" port="30009" sshConfigId="9ad420da-72f1-4a2d-84b3-da9ee8821e97" sshConfig="dts_701@localhost:30009 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="bf594e32-24a5-4df5-897a-7ace2ca1fbe4" name="192.168.1.10">
+        <fileTransfer accessType="SFTP" host="localhost" port="30010" sshConfigId="b0a9c834-fafd-47c7-81ad-6c80e968956c" sshConfig="dts_701@localhost:30010 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="10856521-5b89-451a-a8cb-6ae573579f41" name="192.168.1.11">
+        <fileTransfer accessType="SFTP" host="localhost" port="30011" sshConfigId="32502fcb-9545-4e4b-905a-52673c802398" sshConfig="dts_701@localhost:30011 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+    <groups>
+      <group>
+        <name>WHU-Local</name>
+        <servers>
+          <name value="172.16.2.211" />
+          <name value="172.16.2.213" />
+          <name value="172.16.2.214" />
+        </servers>
+      </group>
+      <group>
+        <name>WHU-Remote</name>
+        <servers>
+          <name value="172.16.2.211(Remote)" />
+          <name value="172.16.2.214(Remote)" />
+        </servers>
+      </group>
+      <group>
+        <name>WHU-D401</name>
+        <servers>
+          <name value="192.168.1.2" />
+          <name value="192.168.1.4" />
+          <name value="192.168.1.5" />
+          <name value="192.168.1.6" />
+          <name value="192.168.1.7" />
+          <name value="192.168.1.9" />
+          <name value="192.168.1.10" />
+          <name value="192.168.1.11" />
+        </servers>
+      </group>
+    </groups>
+  </component>
+</project>

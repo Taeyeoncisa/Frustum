@@ -1,0 +1,10 @@
+# Ignores all files without extension (executables)
+*
+!/**/
+!*.*
+
+graveyard.txt
+graveyard.go
+
+results
+rememberscripts.sh
