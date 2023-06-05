@@ -17,10 +17,10 @@ This paper only retains some information and the transaction data structure used
 
  ```go
 type Transaction struct {
-	Hash			[32]byte		// 交易哈希值
-	Inputs		int					// 交易发起者
-	Outputs		int					// 交易接收者
-	Value			int					// 交易金额
+	Hash		[32]byte	
+	Inputs		int				
+	Outputs		int				
+	Value		int			
 }
  ```
 
